@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database>
+	<users>
+    <row><login>log1</login><password>459b5f5f6f76147b7abc8c86cc3a791d</password><e_mail>user1@tut.by</e_mail><user_name>user1</user_name></row><row><login>log2</login><password>202cb962ac59075b964b07152d234b70</password><e_mail>log2@gmail.com</e_mail><user_name>user2</user_name></row></users>
+</database>
